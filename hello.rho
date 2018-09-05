@@ -1,9 +1,1 @@
-@"stdout"!("Luigi is a dork") |
-@"stdout"!("Luigi is a dork") |
-@"stdout"!("Luigi is a dork") |
-@"stdout"!("Hello XUQZAB") |
-@"stdout"!("Hello XUQZAB") |
-@"stdout"!("Hello Node Testers") |
-@"stdout"!("Hello Node Testers") |
-@"stdout"!("Hello Node Testers") |
-@"stdout"!("Hello Node Testers")
+@"stdout"!("Hello World") 
